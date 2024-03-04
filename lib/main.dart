@@ -14,7 +14,7 @@ import 'package:olx_clone/forms/forms_screen.dart';
 import 'package:olx_clone/screens/home_screen.dart';
 import 'package:olx_clone/screens/login_screen.dart';
 import 'package:olx_clone/screens/main_screen.dart';
-import 'package:olx_clone/screens/product_details_screen.dart';
+
 import 'package:olx_clone/screens/sellitems/product_by_category_screen.dart';
 import 'package:olx_clone/screens/sellitems/seller_category_list.dart';
 import 'package:olx_clone/screens/sellitems/seller_subCat_list.dart';
@@ -75,7 +75,7 @@ class MyApp extends StatelessWidget {
         UserReviewScreen.id:(context)=>UserReviewScreen(),
         SellerCarForm.id:(context)=>SellerCarForm(),
         FormsScreen.id:(context)=>FormsScreen(),
-        ProductDetailsScreen.id:(context)=>ProductDetailsScreen(),
+        // ProductDetailsScreen.id:(context)=>ProductDetailsScreen(),
         ProductByCategory.id:(context)=>ProductByCategory(),
       },
 

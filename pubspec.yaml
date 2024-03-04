@@ -26,6 +26,7 @@ dependencies:
   intl: ^0.19.0
   legacy_progress_dialog: ^0.1.2
   like_button: ^2.0.5
+  search_page: ^2.3.0
   location: ^5.0.3
   flutter_geocoder: ^0.2.2-nullsafety
   google_sign_in: ^6.2.1

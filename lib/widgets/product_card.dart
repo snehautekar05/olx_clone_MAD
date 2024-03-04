@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:like_button/like_button.dart';
-import 'package:olx_clone/screens/product_details_screen.dart';
+
 import 'package:olx_clone/services/firebase_service.dart';
 
 class ProductCard extends StatefulWidget {
@@ -20,10 +20,7 @@ class _ProductCardState extends State<ProductCard> {
 
     
     return InkWell(
-    onTap: (){
-      //navigate to product details screen
-      Navigator.pushNamed(context,ProductDetailsScreen.id);
-    },
+
       child: Container(
         width: MediaQuery.of(context).size.width,
         color: Colors.white,
