@@ -42,6 +42,11 @@ Product Details Form:
 
 ![image](https://github.com/snehautekar05/olx_clone_MAD/assets/124376131/1fff84b2-11cb-4c13-8010-978ef08b76f5)
 
+User Review Screen:
+
+![image](https://github.com/snehautekar05/olx_clone_MAD/assets/124376131/56b08248-c5ed-439a-8fb5-615438b239a1)
+
+
 Chat Screen:
 
 ![image](https://github.com/snehautekar05/olx_clone_MAD/assets/124376131/dfff2eb4-66f3-4d2a-a28e-339c8bfa287a)
@@ -49,7 +54,7 @@ Chat Screen:
 MyADS Screen:
 
 ![image](https://github.com/snehautekar05/olx_clone_MAD/assets/124376131/068611f4-3db2-4ade-9f1e-41cdc67c0ba4)
-
+![image](https://github.com/snehautekar05/olx_clone_MAD/assets/124376131/6d938cb0-1272-4348-a6ed-6f7ba6d736ff)
 
 
 References:
