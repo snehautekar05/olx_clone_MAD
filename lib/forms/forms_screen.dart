@@ -37,6 +37,7 @@ class _FormsScreenState extends State<FormsScreen> {
           'sellerUid':_service.user?.uid,
           'images':provider.urlList,
           'postedAt':DateTime.now().microsecondsSinceEpoch,
+          'liked':false,
         });
 
         print(provider.dataToFirestore);

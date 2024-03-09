@@ -34,6 +34,10 @@ class FirebaseService {
     });
   }
 
+  Future<void> updateProductLikedStatus(String? productId, bool liked) async {
+    await products.doc(productId).update({'liked': liked});
+  }
+
   Future<String> getAddress(double lat, double long) async {
     final coordinates = Coordinates(lat, long);
     var addresses =
